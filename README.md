@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15529285.svg)](https://doi.org/10.5281/zenodo.15529285)
+
 # AI & AR In the Classroom: Developing the Future of Learning
 
 This presentation, "AI & AR In the Classroom: Developing the Future of Learning," was delivered by Jay Rosen at the AI in Education Fair hosted by the UF College of Education on May 20, 2025. More information about the event can be found at https://education.ufl.edu/ai/ai-in-education-fair/. This document provides a slide-by-slide overview of the presentation content. This presentation explores the intersection of Artificial Intelligence (AI) and Augmented Reality (AR) in K-12 education, showcasing how AI tools accelerate the development of immersive learning experiences. It uses the "New Worlds Reading AR Expeditions" game as a case study.
